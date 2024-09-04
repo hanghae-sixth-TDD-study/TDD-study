@@ -28,6 +28,9 @@
 
 BDDMockito 를 사용하면 조금 더 given, when, then 의 규격의 맞춰서 테스트가 가능하다.
 
+BDDMockito 관련 추가 아티클
+Wonit님 블로그: https://wonit.tistory.com/493
+
 ## Chapter 8. 테스트 가능한 설계
 
 ### 테스트가 어려운 코드
